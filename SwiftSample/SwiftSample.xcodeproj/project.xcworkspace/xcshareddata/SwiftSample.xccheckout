@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C10BAA08-80D5-4176-BDF0-967F3BA1DF8E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>87C0383EA3A0EB3514E432DB5B136B216E40DB2B</key>
+		<string>http://10.1.16.123:8880/k-kayashima/sandbox.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>swift/SwiftSample/SwiftSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>87C0383EA3A0EB3514E432DB5B136B216E40DB2B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://10.1.16.123:8880/k-kayashima/sandbox.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>87C0383EA3A0EB3514E432DB5B136B216E40DB2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>87C0383EA3A0EB3514E432DB5B136B216E40DB2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sandbox</string>
+		</dict>
+	</array>
+</dict>
+</plist>
